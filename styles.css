@@ -1,0 +1,25 @@
+body {
+  color: red;
+}
+
+.poopy {
+  color: orange;
+  background-color: blue;
+}
+
+.yeehaw {
+  display: block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttonpoopy {
+  border-radius: 5px;
+  border: 2px dotted blue;
+}
+
+.heading {
+  color: blue;
+  background: pink;
+}

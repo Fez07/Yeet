@@ -1,0 +1,117 @@
+body {
+  background: darkgrey;
+}
+
+.headnav {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  background: darkgrey;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #000000;
+}
+
+.heading {
+  font-family: monospace;
+  font-size: 25px;
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: #999999;
+  color: #f8f6f0;
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+
+.navibar {
+  text-align: center;
+  background: #8a8888;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #000000;
+  border-top: 2px solid #000000;
+}
+
+.navibar a {
+  color: lightblue;
+  font-family: monospace;
+  padding: 14px 80px;
+  font-size: 20px;
+  text-decoration: none;
+  background: #7a7979;
+}
+
+.navibar a:hover {
+  background: #34282c;
+  color: lightgrey;
+}
+
+.personal {
+  font-family: verdana;
+}
+
+.personaltitle {
+  color: #bcc6cc;
+  background: #fffacd;
+  margin-top: 163px;
+}
+
+.personalpara {
+  color: #000000;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-right: 150px;
+  background: #bcc6cc;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
+
+.personalbody {
+  display: flex;
+  align-items: center;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+}
+
+.personalimage {
+  max-width: 350px;
+  margin-right: 50px;
+  border-radius: 15px;
+}
+
+.interest {
+  font-family: verdana;
+}
+
+.interesttitle {
+  text-align: right;
+  color: #bcc6cc;
+  background: #fffacd;
+}
+
+.interestpara {
+  color: #000000;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 68px;
+  padding-bottom: 68px;
+  margin-left: 250px;
+  background: #bcc6cc;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
+
+.interestbody {
+  display: flex;
+  align-items: center;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+}
+
+.interestimage {
+  max-width: 350px;
+  margin-left: 50px;
+  border-radius: 15px;
+}
